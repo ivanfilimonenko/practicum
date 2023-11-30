@@ -16,8 +16,5 @@ $(function(){
         showPopup();
     });
 
-    $('.close').on('click', function(){
-        clearForm();
-        closePopup();
-    });
+  
 });
